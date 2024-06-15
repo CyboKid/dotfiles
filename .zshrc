@@ -2,6 +2,7 @@
 # https://www.kali.org/docs/policy/kali-linux-open-source-policy/
 
 # Modifications by Erik Larson, or otherwise attributed
+# Modified slightly to suit my needs - Thomas Hellum
 
 # ~/.zshrc file for zsh non-login shells.
 
